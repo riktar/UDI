@@ -1,4 +1,4 @@
-# Unity Developer Italia
+# Unity Developer Italia (UDI)
 
 UDI è un gruppo che si basa sul rispetto delle competenze e della persona altrui.
 Il gruppo è nato con lo scopo di radunare i migliori sviluppatori/designer Unity italiani sotto un'unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco al limite delle possibilità gratuite. Laddove sia necessario proporre soluzioni a pagamento, è obbligatorio fornire tutti i dettagli nel modo più chiaro possibile.
